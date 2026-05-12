@@ -1,2 +1,4 @@
-# react-usecontext-login
-Sistema de login desenvolvido com React e Context API, utilizando gerenciamento global de estado, navegação entre páginas e suporte a tema claro/escuro.
+# React UseContext Login System
+## Sobre o Projeto
+  Sistema de autenticação desenvolvido em React utilizando Context API ```useContext``` para gerenciamento global de estado, com tela de login, dashboard, tema escuro/claro e navegação entre páginas usando React Router.
+  
